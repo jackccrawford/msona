@@ -8,6 +8,7 @@ A beautiful suite of applications that includes Luminary (quote discovery) and m
 ![TypeScript](https://img.shields.io/badge/typescript-5.5.3-blue)
 ![Test Coverage](https://img.shields.io/badge/coverage-85%25-green)
 
+Live: https://msona.netlify.app
 ![mSona Dark Mode](public/images/mSona%20with%20details.png)
 
 ## 🚀 Features
